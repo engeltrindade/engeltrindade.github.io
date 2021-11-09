@@ -1,0 +1,80 @@
+SOBRE MIM 
+
+**Deixar título centralizado como os demais; 
+
+**Adicionar foto em formato circular ;
+Imagem do Linkedin 
+
+
+**Texto: 
+
+"Movida por desafios, sempre busco aprender algo novo, algo que me faça brilhar os olhos.
+Acabei me apaixonando por Power BI, a grande ferramenta de Business Intelligence. Através dela consigo gerar insights, desenvolver dashboards e agregar valor ao cliente. Tarefas sem impacto não são o meu forte! Gosto de fazer o processo acontecer e ver as coisas funcionando, a final de contas também sou formada em Engenharia Química e amo o processo.
+
+No inicio do ano de 2021 , me desafiei a aprender Power Bi, mas de uma forma inovadora.Fui além do que era esperado em busca por algo maior. Desenvolvi meu primeiro dashboard, porém totalmente em inglês e sobre vendas (área fora da minha de atuação). Em seguida me aventurei em um Bootcamp de Power BI com duração de dois meses, onde de fato aprendi Power BI e desenvolvi diversos paineis que traziam não APENAS um bom visual ao cliente, mas ANÁLISES e INSIGHTS sobre seu negócio, principais vendedores, DRE, além de toda estruturação e tratamento de dados (ETL).
+
+Além de tudo isso, sou apaixonada por empreendedorismo, amo dançar Ballet Contemporâneo e sou modelo fotográfica nas horas vagas.
+
+Se você gostaria de facilitar a análise de dados da sua empresa, inovar e melhorar os processos através de ferramentas de BI, é comigo que você deve falar!"
+
+______________________________________________________________________________________________________________________
+
+
+CONHECIMENTOS 
+
+* ETL 
+
+Do inglês Extract Transform Load, são ferramentas de software cuja função é a extração de dados de diversos sistemas, transformação desses dados conforme regras de negócio e por fim o carregamento dos dados.
+
+* DAX
+Expressões de análise de dados é a fórmula nativa e linguagem de consulta para modelos de tabela Microsoft Power BI.
+
+* SQL 
+ Sistema gerenciador de Banco de dados relacional. 
+
+* STORYTELLING 
+O Storytelling é a arte de saber contar “histórias” com dados de forma fluida e organizada! Com o objetivo de fazer com que o público-alvo tenha uma fácil leitura da sua página, relatório, dashboard, etc e entenda exatamente a história que você quer contar!
+
+* FIGMA 
+Editor gráfico de vetor e prototipagem de projetos de design, utilizado na criação do background (design) dos dashboard's. 
+
+* LANGUAGE M 
+Responsável por todo o processo de transformação realizado no Power BI e no suplemento Power Query.
+
+______________________________________________________________________________________________________________________
+
+
+PROJETOS
+
+* BI WARS 
+O despertar da cultura de dados 
+
+A BI Wars é uma empresa de consultoria, que criamos para desenvolver o SQUAD do Bootcamp, especialista em Power BI que surgiu com o objetivo de despertar a cultura de dados nas mais variadas empresas, e seu respectivos usuários de negócios. 
+
+
+* SALES REPORT 
+Painel de vendas desenvolvido em inglês, com recursos de filtro oculto,botões de navegação, formatação condicional, ranking de funcionários. 
+
+
+* HPN 
+Heavy Power Nutrition 
+
+Usamos todo nosso conhecimento na linguagem DAX para fazer algumas análises super interessantes para o cliente, Heavy Power Nutrition, que mostraram o quanto seu tempo e de sua equipe será otimizado quando o projeto estiver rodando automaticamente.
+
+______________________________________________________________________________________________________________________
+
+CONTATOS 
+
+** Pode remover a guia e deixar apenas os ícones
+
+* Incluir nos ícones os contatos de wpp , linkedin e e-mail 
+
+wpp :  api.whatsapp.com/send?phone=5531992276343
+
+linkedin: linkedin.com/in/engeltrindade
+
+e-mail: engel.nynna@gmail.com
+
+
+https://stock.adobe.com/br/search/images?k=analytics
+
