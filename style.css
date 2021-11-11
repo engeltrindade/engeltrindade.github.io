@@ -253,8 +253,7 @@ header {
 }
 
 #conhecimentos{
-  background: #040205;
-  background: linear-gradient(to left, #89ff4480, #305e9375);
+  background-image:url(/imagens/background-clean.jpg)
 }
 
 .conhecimentos {
@@ -642,17 +641,22 @@ footer{
   align-items: center;
 }
 
-#footer-contato{
-    font-family: var(--font-primary);
-    font-size: 1.7rem;
-    color: #4b4b4b;
-    border-bottom: solid 3px #6a3093;
-    margin-bottom: 3.5rem;
-    color: #eee;
-    margin-left: 33rem;
-    margin-right: 33rem;
-
+#footer-1{
+  margin-top: 2rem;
 }
+
+.foot-center{
+width: 30%;
+height: 3rem;
+margin: 0rem;
+color: #eee;
+display:flex;
+margin-left: auto;
+margin-right: auto;
+font-family: var(--font-primary);
+justify-content: center;
+}
+
 
 .footer-content{
   width: 60%;
@@ -698,5 +702,23 @@ footer{
   
   transform: scale(1.2);
   transition-delay: 0.1s 
+}
+
+.social-media-footer i {
+  background-color: #6a3093;
+  color: rgba(255, 255, 255, 1);
+  height: 3.5rem;
+  width: 3.5rem;
+  font-size: 1.5rem;
+  display:inline-flex;
+  margin-left: 1.5rem;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  transition: background-color 1s;
+}
+
+.social-media-footer i:hover {
+  background-color: #a044ff;
 }
 
