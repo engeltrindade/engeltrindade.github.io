@@ -648,8 +648,12 @@ footer{
   height: 1rem;
 }
 #footer-2{
-width: 200px;
-margin-bottom: 3rem;
+width: 50rem;
+margin-bottom: 1rem;
+margin-top: 1rem;
+font-family:var(--font-primary);
+font-size: 2rem ;
+color: rgb(243, 8, 153);
 }
 
 .foot-center{
